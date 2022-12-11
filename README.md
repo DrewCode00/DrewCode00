@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @DrewCode00
+- 👀 I’m interested in working big startup projects, always available to volunteer on Projects.
+- - 🌱 I’m currently working on an ecommerce project with metaverse and blockchain technology.
+- 💞️ I’m looking to collaborate on projects that are disrupting the technology space.
+- 📫 How to reach me ...
+- You can reach me on 
+- Mobile
+- +44 7392376848
+- Email: drewcode@interactivesmm.com
+- !---
+
