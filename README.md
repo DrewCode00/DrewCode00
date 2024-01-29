@@ -1,12 +1,2 @@
 - 👋 Hi, I’m @DrewCode00
-- A full stack developer with experience working on both front-end and back-end technologies,having been able  to build and maintain web applications. My scope of expertise is in languages such as HTML, CSS, JavaScript, and back-end languages like Python, Ruby, or Java, Php. And very familiar with web development frameworks and libraries like React, Angular, and Vue.js for the front-end, and Node.js, Express, and Ruby on Rails for the back-end. Additionally,  with databases, such as MySQL, MongoDB, or SQL Server, andhave been   able to integrate the application with these databases. With technical hands-on with version control systems such as Git, and have experience with deployment, testing, and debugging.
-- 👀 I’m interested in working big startup projects, always available to volunteer on Projects.
-- - 🌱 I’m currently working on an ecommerce project with metaverse and blockchain technology.
-- 💞️ I’m looking to collaborate on projects that are disrupting the technology space.
-- 📫 How to reach me ...
-- You can reach me on 
-- Mobile
-- +44 7392376848
-- Email: drewcode@interactivesmm.com
-- !---
-
+An experienced and responsible software engineer with a high degreee of initiation,team leader, with an agile mindset but I don't have time to write code anymore, because we are changing the game for startups, Think-tanks, If you fit this category, don't reach me, I will because by then, we will be a great fit.
